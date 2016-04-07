@@ -234,3 +234,16 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.tlog
+testTemplate/cocos2d/cocos/editor-support/spine/proj.win32/Debug.win32/libSpine.idb
+testTemplate/cocos2d/external/Box2D/proj.win32/Debug.win32/libbox2d.idb
+testTemplate/cocos2d/external/bullet/proj.win32/Debug.win32/libbullet.idb
+testTemplate/proj.win32/Debug.win32/CloseNormal.png
+testTemplate/proj.win32/Debug.win32/CloseSelected.png
+testTemplate/proj.win32/Debug.win32/fonts/Marker Felt.ttf
+testTemplate/proj.win32/Debug.win32/game.res
+testTemplate/proj.win32/Debug.win32/fonts/arial.ttf
+testTemplate/proj.win32/Debug.win32/libcocos2d.exp
+testTemplate/proj.win32/Debug.win32/res/.gitkeep
+testTemplate/proj.win32/Debug.win32/testTemplate.exp
+testTemplate/proj.win32/Debug.win32/vc140.idb
